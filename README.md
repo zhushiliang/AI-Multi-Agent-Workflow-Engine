@@ -84,7 +84,7 @@ Summarizer Agent (结果汇总 + 结构化输出)
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/your-username/AI-Multi-Agent-Workflow-Engine.git
+git clone https://github.com/zhushiliang/AI-Multi-Agent-Workflow-Engine.git
 cd AI-Multi-Agent-Workflow-Engine
 
 # 2. 配置环境变量
